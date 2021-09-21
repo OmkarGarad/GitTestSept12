@@ -1,4 +1,4 @@
 public class hello{
-system
+system.out.println();
 
 }
