@@ -1,4 +1,5 @@
 public class hello{
-system.out.println();
+system.out.println("omkar");
+
 
 }
