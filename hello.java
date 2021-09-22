@@ -1,5 +1,7 @@
 public class hello{
-system.out.println("omkar");
+  
+public static void main( String []args ) {
+        System.out.println( "Hello World!" );
 
 
 }
