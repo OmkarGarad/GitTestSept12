@@ -1,4 +1,5 @@
 public class GITTest{
-system.out.println("Test");
+public static void main( String []args ) {
+        System.out.println( "Hello GIT!");
 
 }
